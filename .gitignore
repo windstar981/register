@@ -30,7 +30,7 @@
 /README.md
 
 # Ignore fix module files and directories.
-!/modules/banner
+!/modules/banners
 
 !/themes/default
 /themes/default/*
@@ -42,10 +42,10 @@
 /themes/default/js/*
 /themes/default/images/*
 /themes/default/modules/*
-!/themes/default/css/banner.css
-!/themes/default/js/banner.js
-!/themes/default/images/banner
-!/themes/default/modules/banner
+!/themes/default/css/banners.css
+!/themes/default/js/banners.js
+!/themes/default/images/banners
+!/themes/default/modules/banners
 
 !/themes/admin_default
 /themes/admin_default/*
@@ -57,7 +57,7 @@
 /themes/admin_default/js/*
 /themes/admin_default/images/*
 /themes/admin_default/modules/*
-!/themes/admin_default/css/banner.css
-!/themes/admin_default/js/banner.js
-!/themes/admin_default/images/banner
-!/themes/admin_default/modules/banner
+!/themes/admin_default/css/banners.css
+!/themes/admin_default/js/banners.js
+!/themes/admin_default/images/banners
+!/themes/admin_default/modules/banners
